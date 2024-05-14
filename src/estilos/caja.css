@@ -1,0 +1,44 @@
+.contenedortexto {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.contendorImagen {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.contenedorTitulo {
+    margin: 15px 0 10px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+p {
+    font-size: 1em;
+    color: #666;
+}
+
+.botonMasInfo {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+.botonMasInfo:hover {
+    background-color: #0056b3;
+}
