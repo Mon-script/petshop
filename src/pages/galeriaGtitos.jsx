@@ -4,7 +4,7 @@ import '../estilos/galeria.css'
 const Galeria = () => {
     return (
         <div className="contenedorGaleria">
-            <Caja />
+            <Caja/>
             <Caja />
             <Caja />
         </div>
